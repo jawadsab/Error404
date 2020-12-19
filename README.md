@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="./assets/final.png" width="150px">
+<img src="./assets/final.png" width="350px">
 
 > Made this using flexbox CSS. It is responsive to all screen sizes
 
